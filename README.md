@@ -7,8 +7,7 @@ Predicting using AI
 
 ## 🎥 Demo Video
 
-👉 [Click here to watch demo]https://1drv.ms/v/c/1DB6189DBE9967C4/IQC1MMffzF52QYFuCfFfj1OuARKRB6JXi99OAR0LFKwlBTY?e=uKRDFL
-
+👉 [Click here to watch demo][https://1drv.ms/v/c/1DB6189DBE9967C4/IQDIDPk7vxQrRZQkAfr4VbQBAX2pz8gPgFrVnAql-MSRI5Y?e=cEdaX2]
 
 ## 📸 Screenshots
 
