@@ -38,9 +38,7 @@ Predicting using AI
 ## 🛠 Tech Stack
 
 * **Frontend:** Streamlit
-* **Backend:** FastAPI
 * **Machine Learning:** Scikit-learn (Naive Bayes)
-* **Database:** JSON / MongoDB
 * **Visualization:** Matplotlib
 
 ---
